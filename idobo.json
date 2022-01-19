@@ -65,7 +65,7 @@
       "KC_COMM",
       "KC_DOT",
       "KC_SLSH",
-      "ANY(MT(MOD_RSFT, KC_UP))",
+      "KC_RSFT",
       "KC_MPLY",
       "KC_GRV",
       "KC_LCTL",
@@ -79,9 +79,9 @@
       "KC_SPC",
       "KC_BSPC",
       "KC_RGUI",
-      "KC_LEFT",
-      "KC_DOWN",
-      "KC_RGHT"
+      "KC_F17",
+      "KC_F18",
+      "KC_F19"
     ],
     [
       "KC_NO",
