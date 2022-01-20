@@ -78,7 +78,7 @@
       "MO(3)",
       "KC_SPC",
       "KC_BSPC",
-      "KC_RGUI",
+      "TG(4)",
       "KC_F15",
       "KC_F16",
       "KC_F17"
@@ -386,7 +386,7 @@
       "MO(3)",
       "KC_SPC",
       "KC_BSPC",
-      "KC_RGUI",
+      "KC_TRNS",
       "KC_F15",
       "KC_F16",
       "KC_F17"
